@@ -1,0 +1,17 @@
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\bin\Debug\Quiz3.exe.config
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\bin\Debug\Quiz3.exe
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\bin\Debug\Quiz3.pdb
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\bin\Debug\Quiz3.xml
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.vbproj.AssemblyReference.cache
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.vbproj.SuggestedBindingRedirects.cache
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Resources.resources
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.vbproj.GenerateResource.cache
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.vbproj.CoreCompileInputs.cache
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.exe
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.xml
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.pdb
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Form1.resources
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Form2.resources
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Form3.resources
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Form4.resources
+C:\VSunipi\VISUAL BASIC\Quiz3\Quiz3\obj\Debug\Quiz3.Form5.resources
